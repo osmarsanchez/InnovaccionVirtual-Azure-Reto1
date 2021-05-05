@@ -9,7 +9,7 @@ Es un conjunto en constante expansión de servicios en la nube que ayudan a su o
 ## ⚡ IaaS
  Un proveedor de nube mantiene el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de red se dejan en el inquilino de la nube. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos informáticos.
 
-## 👍  Paas
+## 👍  PaaS
 Es un entorno de hospedaje administrado. El proveedor de nube administra las máquinas virtuales y los recursos de red y el inquilino en la nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
 
 ## 🌐 SaaS
