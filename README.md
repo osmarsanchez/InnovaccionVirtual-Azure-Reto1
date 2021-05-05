@@ -3,7 +3,7 @@
 ## Computación en la nube
 
 ## Azure
-
+Es un conjunto en constante expansión de servicios en la nube que ayudan a su organización a hacer frente a los desafíos empresariales actuales y futuros. Ofrece la libertad de crear, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y marcos favoritos.
 ## IaaS
 
 ## Paas
