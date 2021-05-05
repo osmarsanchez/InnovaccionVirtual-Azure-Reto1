@@ -11,3 +11,13 @@
 ## SaaS
 
 ![Imagen servicio](https://docs.microsoft.com/en-gb/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png) 
+
+## Regiones
+
+## Geografía
+
+## Zonas de disponibilidad
+
+## Recursos
+
+## Gobernanza
